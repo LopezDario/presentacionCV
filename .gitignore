@@ -1,0 +1,10 @@
+# CV (contiene datos de referencias de terceros)
+*.docx
+*.pdf
+
+# Archivos temporales de Office
+~$*
+
+# Sistema
+Thumbs.db
+.DS_Store
